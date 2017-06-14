@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mathbattle.server:ear">
+    <output-path>$PROJECT_DIR$/ant</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true">
+        <file>file://$PROJECT_DIR$/ant/wildfly.xml</file>
+        <target>deploy-ear</target>
+      </options>
+    </properties>
+    <root id="archive" name="mathbattle.server.ear">
+      <element id="artifact" artifact-name="mathbattle.server.beans:jar" />
+      <element id="artifact" artifact-name="mathbattle.server.web:war" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+    </root>
+  </artifact>
+</component>

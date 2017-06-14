@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="com.timhaasdyk.mathbattleserver.web" external.linked.project.path="$MODULE_DIR$/../../Web" external.root.project.path="$MODULE_DIR$/../../Web" external.system.id="GRADLE" external.system.module.group="com.timhaasdyk.mathbattle" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Web">
+      <sourceFolder url="file://$MODULE_DIR$/../../Web/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Web/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Web/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.0_spec:1.0.0.Final" level="project" />
+    <orderEntry type="module" module-name="com.timhaasdyk.mathbattleserver.beans" />
+    <orderEntry type="library" name="Gradle: org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec:1.0.0.Final" level="project" />
+  </component>
+</module>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="com.timhaasdyk.mathbattleserver.beans" external.linked.project.path="$MODULE_DIR$/../../Beans" external.root.project.path="$MODULE_DIR$/../../Beans" external.system.id="GRADLE" external.system.module.group="com.timhaasdyk.mathbattle" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Beans">
+      <sourceFolder url="file://$MODULE_DIR$/../../Beans/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Beans/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Beans/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:1.5.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot:1.5.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-beans:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-commons:1.13.4.RELEASE" level="project" />
+  </component>
+</module>

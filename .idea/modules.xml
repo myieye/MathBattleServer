@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattle.server.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattle.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattle.server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattle.server_main.iml" group="com.timhaasdyk.mathbattle.server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattle.server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattle.server_test.iml" group="com.timhaasdyk.mathbattle.server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.beans.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.beans_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.beans_main.iml" group="com.timhaasdyk.mathbattleserver.beans" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.beans_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.beans_test.iml" group="com.timhaasdyk.mathbattleserver.beans" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.web.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.web_main.iml" group="com.timhaasdyk.mathbattleserver.web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timhaasdyk.mathbattleserver.web_test.iml" group="com.timhaasdyk.mathbattleserver.web" />
+    </modules>
+  </component>
+</project>

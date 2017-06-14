@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mathbattle.server.beans:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="mathbattle.server.beans.jar">
+      <element id="directory" name="META-INF">
+        <element id="dir-copy" path="$PROJECT_DIR$/Beans/res/META-INF" />
+      </element>
+      <element id="module-output" name="com.timhaasdyk.mathbattleserver.beans" />
+      <element id="module-output" name="com.timhaasdyk.mathbattle.server" />
+      <element id="module-output" name="com.timhaasdyk.mathbattleserver.beans_main" />
+      <element id="module-output" name="com.timhaasdyk.mathbattleserver.beans_test" />
+      <element id="module-output" name="com.timhaasdyk.mathbattle.server_main" />
+      <element id="module-output" name="com.timhaasdyk.mathbattle.server_test" />
+    </root>
+  </artifact>
+</component>

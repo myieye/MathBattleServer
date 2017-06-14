@@ -1,0 +1,16 @@
+<project name="MathBattle" basedir="./">
+    <target name="deploy-server">
+        <echo>${basedir}</echo>
+        <exec executable="cmd" dir="${basedir}">
+            <arg value="/C" />
+            <arg value="start wildfly.bat" />
+        </exec>
+    </target>
+    <target name="deploy-ear">
+        <echo>${basedir}</echo>
+        <exec executable="cmd" dir="${basedir}">
+            <arg value="/C" />
+            <arg value="deploy-ear.bat" />
+        </exec>
+    </target>
+</project>

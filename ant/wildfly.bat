@@ -1,0 +1,1 @@
+%JBOSS_HOME%/bin/standalone.bat --server-config=standalone-full.xml -b 0.0.0.0 -bmanagement 127.0.0.1

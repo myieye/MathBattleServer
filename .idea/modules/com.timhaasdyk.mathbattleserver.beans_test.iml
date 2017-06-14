@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="com.timhaasdyk.mathbattleserver.beans:test" external.linked.project.path="$MODULE_DIR$/../../Beans" external.root.project.path="$MODULE_DIR$/../../Beans" external.system.id="GRADLE" external.system.module.group="com.timhaasdyk.mathbattle" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output-test url="file://$MODULE_DIR$/../../Beans/build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Beans/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../Beans/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Beans/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="com.timhaasdyk.mathbattleserver.beans_main" />
+    <orderEntry type="library" name="Gradle: org.jboss.spec.javax.annotation:jboss-annotations-api_1.2_spec:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot:1.5.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:1.5.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-context:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework.data:spring-data-jpa:1.11.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-aop:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-beans:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework.data:spring-data-commons:1.13.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-expression:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-orm:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-tx:4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.aspectj:aspectjrt:1.8.10" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.25" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-jdbc:4.3.9.RELEASE" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="com.timhaasdyk.mathbattleserver.beans_main" />
+</module>
